@@ -1,29 +1,200 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<rss version="2.0"
-     xmlns:ls="https://www.littlstar.com">
-
+<rss version="2.0" xmlns:ls="https://www.littlstar.com">
   <channel>
 
-    <title>My VR Channel</title>
-
-    <link>https://example.com</link>
-
+    <title>MY VR CHANNEL</title>
+    <link>https://example.com/</link>
     <description>My VR video collection</description>
+    <category>VR</category>
 
+    <!-- ==================== VIDEO 01 ==================== -->
     <item>
+      <title>VIDEO 01 TITLE</title>
+      <link>https://www.eporner.com/dload/OtlGFRfSUAU/2160/18198607-2160p.mp4</link>
+      <description>VIDEO 01 DESCRIPTION</description>
 
-      <title>Test VR Video</title>
+      <!-- Duration in seconds -->
+      <ls:duration>600</ls:duration>
 
-      <link>https://example.com/video.mp4</link>
+      <!-- Optional thumbnail -->
+      <ls:image>https://example.com/video01.jpg</ls:image>
 
-      <description>Test VR video</description>
-
+      <!-- 180 / 360 / ff -->
       <ls:content-type>180</ls:content-type>
-      <ls:content-layout>sbs</ls:content-layout>
 
+      <!-- 2d / sbs / ou / sbs_fr / ou_fr -->
+      <ls:content-layout>sbs</ls:content-layout>
     </item>
 
-  </channel>
+    <!-- ==================== VIDEO 02 ==================== -->
+    <item>
+      <title>VIDEO 02 TITLE</title>
+      <link>https://www.eporner.com/dload/PycpEgejEO3/2160/18193449-2160p.mp4</link>
+      <description>VIDEO 02 DESCRIPTION</description>
 
+      <!-- Duration in seconds -->
+      <ls:duration>600</ls:duration>
+
+      <!-- Optional thumbnail -->
+      <ls:image>https://example.com/video02.jpg</ls:image>
+
+      <!-- 180 / 360 / ff -->
+      <ls:content-type>180</ls:content-type>
+
+      <!-- 2d / sbs / ou / sbs_fr / ou_fr -->
+      <ls:content-layout>sbs</ls:content-layout>
+    </item>
+
+    <!-- ==================== VIDEO 03 ==================== -->
+    <item>
+      <title>VIDEO 03 TITLE</title>
+      <link>https://www.eporner.com/dload/QO50Ji94A6K/2160/18185509-2160p.mp4</link>
+      <description>VIDEO 03 DESCRIPTION</description>
+
+      <!-- Duration in seconds -->
+      <ls:duration>600</ls:duration>
+
+      <!-- Optional thumbnail -->
+      <ls:image>https://example.com/video03.jpg</ls:image>
+
+      <!-- 180 / 360 / ff -->
+      <ls:content-type>180</ls:content-type>
+
+      <!-- 2d / sbs / ou / sbs_fr / ou_fr -->
+      <ls:content-layout>sbs</ls:content-layout>
+    </item>
+
+    <!-- ==================== VIDEO 04 ==================== -->
+    <item>
+      <title>VIDEO 04 TITLE</title>
+      <link>https://example.com/video04.mp4</link>
+      <description>VIDEO 04 DESCRIPTION</description>
+
+      <!-- Duration in seconds -->
+      <ls:duration>600</ls:duration>
+
+      <!-- Optional thumbnail -->
+      <ls:image>https://example.com/video04.jpg</ls:image>
+
+      <!-- 180 / 360 / ff -->
+      <ls:content-type>180</ls:content-type>
+
+      <!-- 2d / sbs / ou / sbs_fr / ou_fr -->
+      <ls:content-layout>sbs</ls:content-layout>
+    </item>
+
+    <!-- ==================== VIDEO 05 ==================== -->
+    <item>
+      <title>VIDEO 05 TITLE</title>
+      <link>https://www.eporner.com/dload/oBPvbaBgSPW/2160/1969202-2160p.mp4</link>
+      <description>VIDEO 05 DESCRIPTION</description>
+
+      <!-- Duration in seconds -->
+      <ls:duration>600</ls:duration>
+
+      <!-- Optional thumbnail -->
+      <ls:image>https://example.com/video05.jpg</ls:image>
+
+      <!-- 180 / 360 / ff -->
+      <ls:content-type>180</ls:content-type>
+
+      <!-- 2d / sbs / ou / sbs_fr / ou_fr -->
+      <ls:content-layout>sbs</ls:content-layout>
+    </item>
+
+    <!-- ==================== VIDEO 06 ==================== -->
+    <item>
+      <title>VIDEO 06 TITLE</title>
+      <link>https://www.eporner.com/dload/yfpWsaf3FIT/2160/12283363-2160p.mp4</link>
+      <description>VIDEO 06 DESCRIPTION</description>
+
+      <!-- Duration in seconds -->
+      <ls:duration>600</ls:duration>
+
+      <!-- Optional thumbnail -->
+      <ls:image>https://example.com/video06.jpg</ls:image>
+
+      <!-- 180 / 360 / ff -->
+      <ls:content-type>180</ls:content-type>
+
+      <!-- 2d / sbs / ou / sbs_fr / ou_fr -->
+      <ls:content-layout>sbs</ls:content-layout>
+    </item>
+
+    <!-- ==================== VIDEO 07 ==================== -->
+    <item>
+      <title>VIDEO 07 TITLE</title>
+      <link>https://www.eporner.com/dload/xafut7HSqZS/2160/12259046-2160p.mp4</link>
+      <description>VIDEO 07 DESCRIPTION</description>
+
+      <!-- Duration in seconds -->
+      <ls:duration>600</ls:duration>
+
+      <!-- Optional thumbnail -->
+      <ls:image>https://example.com/video07.jpg</ls:image>
+
+      <!-- 180 / 360 / ff -->
+      <ls:content-type>180</ls:content-type>
+
+      <!-- 2d / sbs / ou / sbs_fr / ou_fr -->
+      <ls:content-layout>sbs</ls:content-layout>
+    </item>
+
+    <!-- ==================== VIDEO 08 ==================== -->
+    <item>
+      <title>VIDEO 08 TITLE</title>
+      <link>https://www.eporner.com/dload/DPg3LXUuuHc/2160/12281760-2160p.mp4</link>
+      <description>VIDEO 08 DESCRIPTION</description>
+
+      <!-- Duration in seconds -->
+      <ls:duration>600</ls:duration>
+
+      <!-- Optional thumbnail -->
+      <ls:image>https://example.com/video08.jpg</ls:image>
+
+      <!-- 180 / 360 / ff -->
+      <ls:content-type>180</ls:content-type>
+
+      <!-- 2d / sbs / ou / sbs_fr / ou_fr -->
+      <ls:content-layout>sbs</ls:content-layout>
+    </item>
+
+    <!-- ==================== VIDEO 09 ==================== -->
+    <item>
+      <title>VIDEO 09 TITLE</title>
+      <link>https://www.eporner.com/dload/8w0plaOziuN/2160/12806133-2160p.mp4</link>
+      <description>VIDEO 09 DESCRIPTION</description>
+
+      <!-- Duration in seconds -->
+      <ls:duration>600</ls:duration>
+
+      <!-- Optional thumbnail -->
+      <ls:image>https://example.com/video09.jpg</ls:image>
+
+      <!-- 180 / 360 / ff -->
+      <ls:content-type>180</ls:content-type>
+
+      <!-- 2d / sbs / ou / sbs_fr / ou_fr -->
+      <ls:content-layout>sbs</ls:content-layout>
+    </item>
+
+    <!-- ==================== VIDEO 10 ==================== -->
+    <item>
+      <title>VIDEO 10 TITLE</title>
+      <link>https://www.eporner.com/dload/3JErFHDSAgm/2160/9086289-2160p.mp4</link>
+      <description>VIDEO 10 DESCRIPTION</description>
+
+      <!-- Duration in seconds -->
+      <ls:duration>600</ls:duration>
+
+      <!-- Optional thumbnail -->
+      <ls:image>https://example.com/video10.jpg</ls:image>
+
+      <!-- 180 / 360 / ff -->
+      <ls:content-type>180</ls:content-type>
+
+      <!-- 2d / sbs / ou / sbs_fr / ou_fr -->
+      <ls:content-layout>sbs</ls:content-layout>
+    </item>
+  </channel>
 </rss>
