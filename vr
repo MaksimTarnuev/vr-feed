@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+     xmlns:ls="https://www.littlstar.com">
+
+  <channel>
+
+    <title>My VR Channel</title>
+
+    <link>https://example.com</link>
+
+    <description>My VR video collection</description>
+
+    <item>
+
+      <title>Test VR Video</title>
+
+      <link>https://example.com/video.mp4</link>
+
+      <description>Test VR video</description>
+
+      <ls:content-type>180</ls:content-type>
+      <ls:content-layout>sbs</ls:content-layout>
+
+    </item>
+
+  </channel>
+
+</rss>
